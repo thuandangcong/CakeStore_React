@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/e3ecbef2-484f-4710-8bc8-96bf519bf30b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/cakestore",
+  "appService.deploySubpath": "."
+}
